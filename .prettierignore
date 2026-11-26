@@ -6,3 +6,5 @@ dist
 *.mdx
 coverage
 .git
+.open-next
+.wrangler
