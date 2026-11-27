@@ -31,7 +31,7 @@ export function Logo({ size = "md", className, textOnly = false }: LogoProps) {
           alt=""
           width={dims.img}
           height={dims.img}
-          className="size-auto object-contain"
+          className="shrink-0 object-contain"
           priority
         />
       )}
